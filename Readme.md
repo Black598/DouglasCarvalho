@@ -12,7 +12,7 @@
 ## ​​​ Sobre mim
 
 - 💼 Desenvolvedor apaixonado por tecnologia, focado em soluções modernas e escaláveis.
--  Habilidades principais (baseadas no que está no seu LinkedIn e README):
+-  Habilidades principais :
   - JavaScript, TypeScript
   - React
   - Node.js
