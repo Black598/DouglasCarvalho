@@ -9,17 +9,21 @@
 
 ---
 
-## 🧑‍💻 Sobre mim
+## ​​​ Sobre mim
 
 - 💼 Desenvolvedor apaixonado por tecnologia, focado em soluções modernas e escaláveis.
-- 🌱 Atualmente aprimorando meus conhecimentos em **Node.js**, **TypeScript** e **React**.
-- 💬 Pergunte-me sobre **JavaScript, React, Node.js, Git e TypeScript**.
+-  Habilidades principais (baseadas no que está no seu LinkedIn e README):
+  - JavaScript, TypeScript
+  - React
+  - Node.js
+  - HTML5, CSS3
+  - Git, VSCode
+-  Interesse contínuo em evoluir e aprender novas tecnologias.
 - 📫 Como me contatar: **[doug.oak598@gmail.com](mailto:doug.oak598@gmail.com)**
-- 👨‍💻 Portfólio em desenvolvimento...
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## ​​ Tecnologias & Ferramentas
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
@@ -34,7 +38,7 @@
 
 ---
 
-## 📊 Linguagens mais usadas
+## ​ Linguagens mais usadas
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Black598&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Linguagens mais usadas" />
@@ -42,7 +46,7 @@
 
 ---
 
-## 🌐 Conecte-se comigo
+## ​ Conecte-se comigo
 
 <div align="center">
   <a href="https://discord.gg/WESd7zdS" target="_blank">
@@ -58,15 +62,7 @@
 
 ---
 
-## 🐍 Snake Game Contributions
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Black598/Black598/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
-## 😄 Um pouco de humor...
+##  Um pouco de humor...
 
 <div align="right">
   <img height="234" src="https://media.tenor.com/a-TsAtfszc8AAAAM/homer-any.gif" alt="Homer Simpson GIF" />
