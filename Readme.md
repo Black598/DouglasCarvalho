@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Douglas Carvalho</h1>
-<h3 align="center">Desenvolvedor Full Stack do Brasil 🇧🇷</h3>
+<h3 align="center">Desenvolvedor Front-End do Brasil 🇧🇷</h3>
 
 ---
 
