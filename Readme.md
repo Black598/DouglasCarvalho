@@ -3,10 +3,12 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=D&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Black598&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -42,19 +44,20 @@
 
 ###
 
+<div align="right">
+  <img height="234" src="https://media.tenor.com/a-TsAtfszc8AAAAM/homer-any.gif"  />
+</div>
+
+###
+
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/D/D/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Black598/Black598/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=D.D&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Black598.Black598&left_color=darkred&right_color=aqua"  />
 </div>
 
 ###
-
-<div align="center">
-  <img height="182" src="<div class="tenor-gif-embed" data-postid="14827444" data-share-method="host" data-aspect-ratio="1.33891" data-width="100%"><a href="https://tenor.com/view/press-any-key-any-key-homer-simpson-the-simpsons-computer-gif-14827444">Press Any Key Homer Simpson GIF</a>from <a href="https://tenor.com/search/press+any+key-gifs">Press Any Key GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>"  />
-</div>
-
