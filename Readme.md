@@ -64,6 +64,6 @@
 
 ##  Um pouco de humor...
 
-<div align="right">
+<div align="center">
   <img height="234" src="https://media.tenor.com/a-TsAtfszc8AAAAM/homer-any.gif" alt="Homer Simpson GIF" />
 </div>
